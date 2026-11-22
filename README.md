@@ -1,1 +1,4 @@
 # trekmate
+TrekMate is an AI-powered trekking assistant designed to make Himalayan trekking easier, safer, and more accessible. It helps users discover trekking destinations, create personalized itineraries, estimate budgets, check weather conditions, understand difficulty levels, and get essential packing and safety recommendations. By combining AI with trekking-related information, TrekMate acts as a virtual trekking companion, helping adventurers plan their journeys with confidence.
+
+My name is Laksh Yadav and i am in my 4th year of my college.honestly i have little bit prompt skill also love to do editing and vibecoding i have planning skill also problem solving skill special for th real world people.In next 6 month i want to strong my DSA also get a high paying job at the last of the college life.
